@@ -1,0 +1,22 @@
+{
+  "name": "little_web",
+  "version": "1.0.0",
+  "description": "this is a test web for tencent cloud by little ma.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LittleMali/little_web.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LittleMali/little_web/issues"
+  },
+  "homepage": "https://github.com/LittleMali/little_web#readme",
+  "dependencies": {
+    "webpack": "^5.1.3"
+  }
+}
